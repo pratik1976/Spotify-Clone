@@ -5,3 +5,6 @@ Welcome to my Spotify Clone! This project is a simplified version of the popular
 Technologies Used
 HTML5: Structuring the web pages and content.
 CSS3: Styling the components and layout, including Flexbox and Grid for responsive design.
+
+
+#Changes are done
